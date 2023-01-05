@@ -36,6 +36,7 @@ footer{
     justify-content: flex-end;
     align-items: center;
     margin-right: 50px;
+    font-size: 22px;
 }
 
 .navbarelement:last-child{
@@ -62,7 +63,7 @@ footer{
 
 #title{
     font-family: 'Manrope', sans-serif;
-    font-size: 35px;
+    font-size: 50px;
     margin-left: 30px;
 }
 
@@ -87,7 +88,6 @@ footer{
 #leftmain{
     display: flex;
     flex-direction: column;
-    font-size: 15px;
     width: 50vw;
     height: 25vh;
     justify-content: center;
@@ -95,7 +95,7 @@ footer{
     margin-left: 15px;
     text-align: center;
     font-style: italic;
-    font-size: 17px;
+    font-size: 22px;
 }
 
 #rightmain{
@@ -118,7 +118,7 @@ footer{
 #textfooter{
     display: flex;
     flex-direction: column;
-    font-size: 14px;
+    font-size: 17px;
     font-style: italic;
     width: 100vw;
     height: 10vh;
@@ -150,6 +150,8 @@ footer{
        display: flex;
        flex-direction: column;
        margin-bottom: 30px;
+       justify-content: center;
+       align-items: center;
     }
 
     #centerimage{
@@ -160,7 +162,7 @@ footer{
     #leftmain{
         margin-left: 0px;
         width: 80vw;
-        font-size: 18px;
+        font-size: 16px;
     }
 
     #title{
@@ -171,6 +173,7 @@ footer{
     
     #textfooter{
         height: 15vh;
+        font-size: 14px;
     }
 
 }
