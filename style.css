@@ -184,6 +184,7 @@ footer{
     }
 
     .containernavbarcenter{
+        margin-top: 20px;
         width: 100vw;
         height: auto;
         display: flex;
@@ -237,7 +238,7 @@ footer{
 
     
     #textfooter{
-        height: 15vh;
+        height: 10vh;
         font-size: 14px;
     }
 
